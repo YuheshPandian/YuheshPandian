@@ -1,2 +1,2 @@
-![Banner.png](Github-Profile-Banner.png)
+![Banner.png](Yuhesh-Github-Profile-Banner.png)
 
