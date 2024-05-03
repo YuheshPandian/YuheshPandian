@@ -1,5 +1,7 @@
 ## 🤘🏻 About Me
 
+👋 Hey there! I'm Yuhesh, a passionate coder 🖥️ and tech enthusiast 🚀. With a love for problem-solving and a knack for creativity, I dive into the world of software development to bring ideas to life. Let's connect and collaborate on exciting projects! 🌟 #CodeLife #TechEnthusiast 
+
 ## 💻 Tech Stack:
 
 <div align="center">
