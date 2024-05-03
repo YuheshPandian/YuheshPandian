@@ -1,7 +1,6 @@
-![Banner.png](Yuhesh-Github-Profile-Banner.png)
+## 🤘🏻 About Me
 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="center">
   
@@ -9,7 +8,7 @@
 
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
   
