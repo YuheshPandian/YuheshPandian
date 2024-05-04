@@ -8,9 +8,9 @@
 
 ## 🤘🏻 About Me
 
-- 🔭 Currently, I'm immersed in various Open Source Projects, contributing to the thriving community of developers.
+- 🔭 Currently, I'm immersed in various **Open Source Projects**, contributing to the thriving community of developers.
 
-- 🌱 I'm delving into the depths of Python, exploring its nuances and mastering its intricacies to expand my skills.
+- 🌱 I'm delving into the **depths of Python**, exploring its nuances and mastering its intricacies to expand my skills.
 
 - 👯 I'm eager to collaborate with new individuals who share a passion for innovation and creativity.
 
