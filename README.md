@@ -1,4 +1,4 @@
-![banner](banner.gif)
+![banner](profile-banner.gif)
 
 ## 🤘🏻 About Me
 
