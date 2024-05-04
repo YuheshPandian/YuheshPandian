@@ -1,4 +1,10 @@
-![banner](profile-banner.gif)
+<div align="center">
+  
+  # Hey there 👋, I'm Yuhesh
+
+</div>
+
+
 
 ## 🤘🏻 About Me
 
