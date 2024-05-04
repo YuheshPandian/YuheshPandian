@@ -14,7 +14,7 @@
 
 - 👯 I'm eager to **collaborate with new individuals** who share a passion for innovation and creativity.
 
-- 💬 Feel free to reach out to me about topics ranging from **worldly affairs to motivation**; I'm always up for engaging discussions.
+- 💬 Feel free to reach out to me about topics ranging from **Science to motivation**; I'm always up for engaging discussions.
 
 - ⚡ Fun fact: I have a **knack for witty jokes** and love adding a dash of humor to any conversation!
 
