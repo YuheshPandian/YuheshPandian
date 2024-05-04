@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hey there 👋, I'm Yuhesh
+  # Hey there 👋, I'm **Yuhesh**
 
 </div>
 
@@ -12,11 +12,11 @@
 
 - 🌱 I'm delving into the **depths of Python**, exploring its nuances and mastering its intricacies to expand my skills.
 
-- 👯 I'm eager to collaborate with new individuals who share a passion for innovation and creativity.
+- 👯 I'm eager to **collaborate with new individuals** who share a passion for innovation and creativity.
 
-- 💬 Feel free to reach out to me about topics ranging from worldly affairs to motivation; I'm always up for engaging discussions.
+- 💬 Feel free to reach out to me about topics ranging from **worldly affairs to motivation**; I'm always up for engaging discussions.
 
-- ⚡ Fun fact: I have a knack for witty jokes and love adding a dash of humor to any conversation!
+- ⚡ Fun fact: I have a **knack for witty jokes** and love adding a dash of humor to any conversation!
 
 
 
