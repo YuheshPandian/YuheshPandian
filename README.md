@@ -1,4 +1,4 @@
-![banner](ctrl+code+create.gif)
+![banner](banner.gif)
 
 ## 🤘🏻 About Me
 
