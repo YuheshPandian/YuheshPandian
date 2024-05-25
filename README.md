@@ -8,15 +8,10 @@
 
 ## 🤘🏻 About Me
 
-- 🔭 Currently, I'm immersed in various **Open Source Projects**, contributing to the thriving community of developers.
-
-- 🌱 I'm delving into the **depths of Python**, exploring its nuances and mastering its intricacies to expand my skills.
-
-- 👯 I'm eager to **collaborate with new individuals** who share a passion for innovation and creativity.
-
-- 💬 Feel free to reach out to me about topics ranging from **Science to motivation**; I'm always up for engaging discussions.
-
-- ⚡ Fun fact: I have a **knack for witty jokes** and love adding a dash of humor to any conversation!
+- 🔭 I’m currently working on a CLI Tool that does everything.
+- 🌱 I’m currently learning the depths of Python and basics of HTML & CSS.
+- 💬 Ask me about current tech trends and Motivational Quotes.
+- ⚡ Fun fact: I'm good at witty jokes.
 
 
 
