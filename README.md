@@ -37,6 +37,6 @@
 
 <div align="right">
   
-[![View Count](https://visitcount.itsvg.in/api?id=YuheshPandian&icon=0&color=6)](https://visitcount.itsvg.in)
+![Views Count](https://komarev.com/ghpvc/?username=YuheshPandian&style=flat-square)
 
 </div>
