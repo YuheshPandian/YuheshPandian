@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Hey there 👋, I'm **Yuhesh**
+<img src="Github-Profile-Banner.png">
 
 </div>
 
