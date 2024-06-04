@@ -4,8 +4,6 @@
 
 </div>
 
-
-
 ## 🤘🏻 About Me
 
 - 🔭 I’m currently working on a CLI Tool that does everything.
@@ -15,7 +13,7 @@
 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 <div align="center">
   
@@ -23,7 +21,7 @@
 
 </div>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
   
