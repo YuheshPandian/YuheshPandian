@@ -32,8 +32,6 @@
 
 <hr>
 
-<div align="right">
   
-![Views Count](https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true)
+<img align=right src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true" height=23px>
 
-</div>
