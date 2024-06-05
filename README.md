@@ -1,7 +1,5 @@
 <div align="center">
-  
 <img src="Github-Profile-Banner.png">
-
 </div>
 
 ## 🤘🏻 About Me
@@ -10,8 +8,6 @@
 - 🌱 I’m currently learning the depths of Python and basics of HTML & CSS.
 - 💬 Ask me about current tech trends and Motivational Quotes.
 - ⚡ Fun fact: I'm good at witty jokes.
-
-
 
 ## 💻 Tech Stack
 
@@ -31,7 +27,5 @@
 </div>
 
 <hr>
-
   
 <img align=right src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true" height=23px>
-
