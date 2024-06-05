@@ -34,6 +34,6 @@
 
 <div align="right">
   
-![Views Count](https://komarev.com/ghpvc/?username=YuheshPandian&style=flat-square)
+![Views Count](https://komarev.com/ghpvc/?username=YuheshPandian&style=flat)
 
 </div>
