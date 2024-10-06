@@ -4,7 +4,7 @@
 
 ## 🤘🏻 About Me
 
-- 🔭 I’m currently working on a CLI Tool that does everything.
+- 🔭 I’m currently working on Academics.
 - 🌱 I’m currently learning the depths of Python and basics of HTML & CSS.
 - 💬 Ask me about current tech trends and Motivational Quotes.
 - ⚡ Fun fact: I'm good at witty jokes.
