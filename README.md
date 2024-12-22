@@ -41,8 +41,6 @@
   
 <hr>
 
-## 📫 Contact
-
 
 
 <img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true" height="23px">
