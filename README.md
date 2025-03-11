@@ -8,6 +8,7 @@
 - 🌱 I’m diving into the depths of Python and exploring the basics of HTML & CSS.
 - 💬 Ask me about current tech trends and motivational quotes.
 - ⚡ Fun fact: I have a knack for witty jokes.
+- ⌨ I type 50-60 WPM
 
 ## 💻 Skills
 
