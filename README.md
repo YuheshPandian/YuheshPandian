@@ -16,4 +16,4 @@
 
 ---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true" height="23px">
+<img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=ffdaa9&abbreviated=true" height="23px">
