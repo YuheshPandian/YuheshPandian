@@ -12,8 +12,11 @@
 💡 Ask me about **the latest tech trends**  
 ⌨ Typing speed: **50-60 WPM—fast fingers, faster ideas!**  
 😆 Fun fact: **My sense of humor is as sharp as my code!** 
- 
 
+
+
+ ## 🧰 Competencies and Utilities
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,markdown,git,github,vscode,pycharm,sublime,replit,notion)]()
 ---
 
 <img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=111111&abbreviated=true" height="23px">
