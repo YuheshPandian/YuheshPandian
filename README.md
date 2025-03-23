@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-🤖 I’m developing **a smart virtual assistant**  
+🤖 I’m currently developing **a smart virtual assistant**  
 📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
 🤝 Open to collaborating with **tech enthusiasts**  
 💡 Ask me about **the latest tech trends**  
