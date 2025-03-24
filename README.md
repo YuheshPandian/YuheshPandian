@@ -19,6 +19,14 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,markdown,git,github,vscode,pycharm,sublime,replit,notion)]()
 
 ## Github Stats
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=radical)]()
+
+
+
+
 ---
 
 <img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=111111&abbreviated=true" height="23px">
