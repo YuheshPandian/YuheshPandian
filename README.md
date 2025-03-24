@@ -1,10 +1,15 @@
 <div align="center">
-  <img src="Github-Banner.png" alt="Profile Banner">
+
+
+# Hey folks👋, I'm **Yuhesh Pandian** 
+#### 🚀 Tech Enthusiast | Aspiring Developer | Creative Thinker | Lifelong Learner 🎯
+
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 🤖 I’m currently developing **a smart virtual assistant**  
 📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
