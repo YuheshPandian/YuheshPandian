@@ -23,17 +23,22 @@
  ## 🧰 Competencies and Utilities
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,markdown,git,github,vscode,pycharm,sublime,replit,notion)]()
 
-## Github Stats
 
+## **📊 Github Stats**
+<details>
+  <summary>✨ Click to view my GitHub stats ✨</summary>
 
-
-<div align="center">
+  <div align="center">
  
   [![trophy](https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=radical)]()
   ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuheshPandian&theme=tokyonight&hide_border=true)<br/>
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
   
-</div>
+  </div>
+
+</details>
+
+
 
 
 
