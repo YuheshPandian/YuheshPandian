@@ -20,7 +20,7 @@
 
 
 
- ## 🧰 Competencies and Utilities
+ ## ⚒ Competencies and Utilities
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,markdown,git,github,vscode,pycharm,sublime,replit,notion)]()
 
 
