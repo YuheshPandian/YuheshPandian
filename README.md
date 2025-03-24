@@ -69,8 +69,6 @@
 
 
 ## **📊 Github Stats**
-<details>
-  <summary>✨ Click to view my GitHub stats ✨</summary>
 
   <div align="center">
  
@@ -80,8 +78,7 @@
   ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&theme=tokyonight&hide_border=true)
   
   </div>
-
-</details>
+  
 
 ## 🔗 Find me on
 
