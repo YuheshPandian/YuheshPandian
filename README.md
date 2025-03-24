@@ -33,12 +33,13 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=radical)]()
   ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=YuheshPandian&theme=tokyonight&hide_border=true)<br/>
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&theme=tokyonight&hide_border=true)
   
   </div>
 
 </details>
 
-
+## 🔗 Find me on
 
 
 
