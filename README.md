@@ -82,7 +82,7 @@
 
 ## 🔗 Find me on
 
-
+comming soon 🚧
 
 ---
 
