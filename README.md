@@ -83,7 +83,7 @@
   </div>
   
 
-## 🔗 Find me on
+## 🔗 Connect with me
 
 comming soon 🚧
 
