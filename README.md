@@ -78,7 +78,7 @@
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&theme=tokyonight&hide_border=true)
+  ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&hide_border=true&theme=tokyonight)
   
   </div>
   
