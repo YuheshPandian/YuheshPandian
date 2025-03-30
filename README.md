@@ -87,7 +87,12 @@
 
 ## 🔗 Connect with me
 
-comming soon 🚧
+
+[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Yuheshpandian)
+[![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/yuheshpandian)
+[![github](https://skillicons.dev/icons?i=github)](https://github.com/YuheshPandian)
+[![gmail](https://skillicons.dev/icons?i=gmail)](yuheshpandian@gmail.com)
+
 
 ---
 
