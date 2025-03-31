@@ -91,7 +91,7 @@
 [![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Yuheshpandian)
 [![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/yuheshpandian)
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/YuheshPandian)
-[![gmail](https://skillicons.dev/icons?i=gmail)](yuheshpandian@gmail.com)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:yuheshpandian@gmail.com)
 <a href="https://www.youtube.com/@yuhesh_pandian"><img src="youtube.svg" width="48px"></a>
 
 
