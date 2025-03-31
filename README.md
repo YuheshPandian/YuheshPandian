@@ -93,7 +93,7 @@
 [![github](https://skillicons.dev/icons?i=github)](https://github.com/YuheshPandian)
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:yuheshpandian@gmail.com)
 <a href="https://www.youtube.com/@yuhesh_pandian"><img src="youtube.svg" width="48px"></a>
-
+<a href="https://codeforces.com/profile/YUHESH"><img src="codeforces.svg" width="48px"></a>
 
 ---
 
