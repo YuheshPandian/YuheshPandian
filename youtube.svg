@@ -65,12 +65,13 @@
        height="140.22935"
        x="18.96183"
        y="62.618141"
-       ry="20.844902" />
+       ry="20.844902"
+       rx="16.838003" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.199362;filter:url(#filter21)"
        d="m 98.755748,102.30569 -0.85979,68.35301 85.548732,-34.17651 z"
        id="path9"
-       transform="matrix(0.82958918,0,0,0.82958918,19.301421,22.59962)" />
+       transform="matrix(0.60808482,0,0,0.82958918,49.587507,23.22325)" />
   </g>
   <defs
      id="defs4">
@@ -149,7 +150,7 @@
          id="feComposite21" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter32"
        x="-0.026176414"
