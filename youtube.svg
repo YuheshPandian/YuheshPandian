@@ -23,7 +23,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.6035156"
-     inkscape:cx="-6.2362972"
+     inkscape:cx="81.071865"
      inkscape:cy="101.33983"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
@@ -65,13 +65,14 @@
        height="140.22935"
        x="18.96183"
        y="62.618141"
-       ry="20.844902"
-       rx="16.838003" />
+       ry="35.812016"
+       rx="32.580563"
+       transform="matrix(0.91112757,0,0,1,12.527725,0.62362973)" />
     <path
        style="fill:#ffffff;fill-opacity:1;stroke-width:0.199362;filter:url(#filter21)"
        d="m 98.755748,102.30569 -0.85979,68.35301 85.548732,-34.17651 z"
        id="path9"
-       transform="matrix(0.60808482,0,0,0.82958918,49.587507,23.22325)" />
+       transform="matrix(0.60808482,0,0,0.82958918,51.587507,23.22325)" />
   </g>
   <defs
      id="defs4">
