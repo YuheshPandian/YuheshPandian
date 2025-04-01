@@ -74,9 +74,9 @@
 
   <div align="center">
  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15&count_private=true)]()
+  [![trophy](https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15)]()
   
-  ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YuheshPandian&theme=tokyonight&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0&hide_border=true&count_private=true)
+  ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YuheshPandian&theme=tokyonight&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0&hide_border=true)
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&hide_border=true&count_private=true)
   
