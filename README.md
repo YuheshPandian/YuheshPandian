@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🤖 I’m currently developing **a smart virtual assistant**  
+🤖 I’m currently building awesome projects powered by Python 
 📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
 🤝 Open to collaborating with **tech enthusiasts**  
 💡 Ask me about **the latest tech trends**  
