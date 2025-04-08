@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🤖 I’m currently building awesome projects powered by Python 
+🤖 I’m currently building an marketplace backend made only for programmers.
 📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
 🤝 Open to collaborating with **tech enthusiasts**  
 💡 Ask me about **the latest tech trends**  
