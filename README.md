@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-🤖 I’m currently working on a Python library.<br>
+🤖 I’m currently working on a **Python library**.<br>
 📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
 🤝 Open to collaborating with **tech enthusiasts**  
 💡 Ask me about **the latest tech trends**  
