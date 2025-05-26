@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/22d63940-24ca-4318-a29a-ca8341a9a887" alt="glow-line" height="3px" width="100%">
+
+
 <div align="center">
 
 
@@ -89,13 +92,12 @@
 ## 🔗 Connect with me
 
 <a href="https://codeforces.com/profile/YUHESH"><img src="codeforces.svg" width="48px"></a>
-[![codepen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/Yuheshpandian)
-[![dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/yuheshpandian)
-[![github](https://skillicons.dev/icons?i=github)](https://github.com/YuheshPandian)
-[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:yuheshpandian@gmail.com)
+<a href="https://dev.to/yuheshpandian"><img src="https://skillicons.dev/icons?i=devto" width="48px"></a>
+<a href="https://codepen.io/Yuheshpandian"><img src="https://skillicons.dev/icons?i=codepen" width="48px"></a>
+<a href="https://github.com/YuheshPandian"><img src="https://skillicons.dev/icons?i=github" width="48px"></a>
+<a href="mailto:yuheshpandian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"></a>
 <a href="https://www.youtube.com/@yuhesh_pandian"><img src="youtube.svg" width="48px"></a>
 
-
 ---
+<img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=7b63ff&abbreviated=true" height="23px" margin="8px">
 
-<img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=1a1a5f&abbreviated=true" height="23px">
