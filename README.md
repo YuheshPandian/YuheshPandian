@@ -26,7 +26,7 @@
 
 #### LANGUAGES
 
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python" /> <img src="https://iconic-api.onrender.com/dark/html" width="64px" title="HTML" /> <img src="https://iconic-api.onrender.com/dark/css" width="64px" title="CSS" /> <img src="https://iconic-api.onrender.com/dark/markdown" width="64px" title="Markdown" />
+<img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" /> <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" /> <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" /> <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown" />
 
 
 #### VERSION CONTROL
