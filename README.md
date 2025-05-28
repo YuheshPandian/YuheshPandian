@@ -41,9 +41,10 @@
 
 
 #### DESIGN
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+<div>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
+  <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape" />
+</div>
 
 #### IDE/EDITORS
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
