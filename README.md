@@ -25,12 +25,20 @@
 ## ⚒ Competencies and Utilities
 
 #### LANGUAGES
-
-<img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" /> <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" /> <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" /> <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown" />
+<div>
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
+  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
+  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown" />
+</div>
 
 
 #### VERSION CONTROL
-<img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" /><img src="https://iconic-api.onrender.com/dark/github" width="48px" title="Github" />
+<div>
+  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
+  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="Github" />
+</div>
+
 
 #### DESIGN
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
