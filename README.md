@@ -55,10 +55,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### AI & BOTS
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
-
+<div>
+  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
+  <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
+  <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
+</div>
 
 #### BLOG
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
