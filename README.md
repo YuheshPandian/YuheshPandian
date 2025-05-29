@@ -59,6 +59,7 @@
   <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
   <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
   <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
+  <img src="https://iconic-api.onrender.com/dark/grammarly" width="48px" title="Grammarly" />
 </div>
 
 #### BLOG
@@ -78,7 +79,9 @@
 
 
 #### OTHERS
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<div>
+  <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
+</div>
 
 
 ## **📊 Github Stats**
