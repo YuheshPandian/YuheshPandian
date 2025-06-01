@@ -94,7 +94,7 @@
   
   ![Streak](https://github-readme-streak-stats-eight.vercel.app/?user=YuheshPandian&theme=tokyonight&date_format=j%20M%5B%20Y%5D&ring=4C8EDA&stroke=FFFFFF&count_private=true&dates=1D64D0&hide_border=true)
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&show_icons&theme=tokyonight&hide_border=true&count_private=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&show_icons&hide_border=true&count_private=true)
   
   ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian=true&hide_border=true&theme=tokyonight)
   
