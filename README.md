@@ -80,8 +80,10 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 #### HOSTING
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<div>
+  <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
+  <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
+</div>
 
 
 #### OTHERS
