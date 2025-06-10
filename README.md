@@ -82,6 +82,7 @@
 #### HOSTING
 <div>
   <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
+  <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
   <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
 </div>
 
