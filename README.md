@@ -76,6 +76,11 @@
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
+<div>
+  <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="CodePen" />
+  <img src="https://iconic-api.onrender.com/dark/codeforces" width="48px" title="Codeforces" />
+</div>
+
 #### FRAMEWORKS
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
