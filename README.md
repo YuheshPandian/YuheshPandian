@@ -79,7 +79,9 @@
 </div>
 
 #### FRAMEWORKS
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<div>
+  <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django" />
+</div>
 
 #### HOSTING
 <div>
