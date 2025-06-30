@@ -114,12 +114,14 @@
 
 ## 🔗 Connect with me
 
-<a href="https://codeforces.com/profile/YUHESH"><img src="codeforces.svg" width="48px"></a>
-<a href="https://dev.to/yuheshpandian"><img src="https://skillicons.dev/icons?i=devto" width="48px"></a>
-<a href="https://codepen.io/Yuheshpandian"><img src="https://skillicons.dev/icons?i=codepen" width="48px"></a>
-<a href="https://github.com/YuheshPandian"><img src="https://skillicons.dev/icons?i=github" width="48px"></a>
-<a href="mailto:yuheshpandian@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48px"></a>
-<a href="https://www.youtube.com/@yuhesh_pandian"><img src="youtube.svg" width="48px"></a>
+<a href="https://codeforces.com/profile/YUHESH"><img src="https://iconic-api.onrender.com/dark/codeforces" width="36px"></a>
+<a href="https://dev.to/yuheshpandian"><img src="https://iconic-api.onrender.com/dark/devto" width="36px"></a>
+<a href="https://codepen.io/Yuheshpandian"><img src="https://iconic-api.onrender.com/dark/codepen" width="36px"></a>
+<a href="https://github.com/YuheshPandian"><img src="https://iconic-api.onrender.com/dark/github" width="36px"></a>
+<a href="mailto:yuheshpandian@gmail.com"><img src="https://iconic-api.onrender.com/dark/gmail" width="36px"></a>
+<a href="https://www.youtube.com/@yuhesh_pandian"><img src="https://iconic-api.onrender.com/dark/youtube" width="36px"></a>
+
+
 
 ---
 <img align="right" src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=7b63ff&abbreviated=true" height="23px" margin="8px">
