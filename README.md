@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/22d63940-24ca-4318-a29a-ca8341a9a887" alt="glow-line" height="3px" width="100%">
-
 
 <div align="center">
 
@@ -13,91 +11,33 @@
 
 ## 👨‍💻 About Me
 
-🤖 I’m currently learning the **Django framework**.<br>
-📚 Expanding my skills in **Python, HTML, and CSS** to build innovative projects  
-🤝 Open to collaborating with **tech enthusiasts**  
-💡 Ask me about **the latest tech trends**  
-⌨ Typing speed: **55-65 WPM—fast fingers, faster ideas!**  
-😆 Fun fact: **My sense of humor is as sharp as my code!** 
-
+I'm learning Django and enhancing my skills in Python, HTML, and CSS. I'm open to collaboration and discussions about the latest tech trends. Plus, I have a fast typing speed, which helps me generate ideas quickly!
 
 
 ## ⚒ Competencies and Utilities
 
-#### LANGUAGES
-<div>
+<div align="center" style="margin: 10px; padding: 115px;">
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML" />
   <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS" />
   <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown" />
-</div>
-
-
-#### VERSION CONTROL
-<div>
   <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git" />
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="Github" />
-</div>
-
-
-#### DESIGN
-<div>
   <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
   <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape" />
-</div>
-
-#### IDE/EDITORS
-
-<div>
   <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="Codepen" />
   <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="Pycharm" />
-  <img src="https://iconic-api.onrender.com/dark/replit" width="48px" title="Replit" />
-  <img src="https://iconic-api.onrender.com/dark/spyder" width="48px" title="Spyder" />
   <img src="https://iconic-api.onrender.com/dark/sublime-text" width="48px" title="Sublime Text" />
   <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
-</div>
-
-
-#### AI & BOTS
-<div>
-  <img src="https://iconic-api.onrender.com/dark/chatgpt" width="48px" title="ChatGPT" />
-  <img src="https://iconic-api.onrender.com/dark/gemini" width="48px" title="Gemini" />
-  <img src="https://iconic-api.onrender.com/dark/deepseek" width="48px" title="Deepseek" />
-  <img src="https://iconic-api.onrender.com/dark/grammarly" width="48px" title="Grammarly" />
-</div>
-
-#### BLOG
-<div>
   <img src="https://iconic-api.onrender.com/dark/devto" width="48px" title="Dev.to" />
-</div>
-
-
-#### DEV FORUMS
-<div>
-  <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="CodePen" />
   <img src="https://iconic-api.onrender.com/dark/codeforces" width="48px" title="Codeforces" />
-</div>
-
-#### FRAMEWORKS
-<div>
   <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django" />
-</div>
-
-#### HOSTING
-<div>
-  <img src="https://iconic-api.onrender.com/dark/vercel" width="48px" title="Vercel" />
-  <img src="https://iconic-api.onrender.com/dark/render" width="48px" title="Render" />
-  <img src="https://iconic-api.onrender.com/dark/netlify" width="48px" title="Netlify" />
-</div>
-
-
-#### OTHERS
-<div>
   <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
 </div>
 
+<details>
+  <summary>Github Stats</summary>
 
-## **📊 Github Stats**
 
   <div align="center">
  
@@ -110,16 +50,17 @@
   ![language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&hide_border=true&theme=tokyonight)
   
   </div>
-  
+
+</details>
 
 ## 🔗 Connect with me
 
-<a href="https://codeforces.com/profile/YUHESH"><img src="https://iconic-api.onrender.com/dark/codeforces" width="36px"></a>
-<a href="https://dev.to/yuheshpandian"><img src="https://iconic-api.onrender.com/dark/devto" width="36px"></a>
-<a href="https://codepen.io/Yuheshpandian"><img src="https://iconic-api.onrender.com/dark/codepen" width="36px"></a>
-<a href="https://github.com/YuheshPandian"><img src="https://iconic-api.onrender.com/dark/github" width="36px"></a>
-<a href="mailto:yuheshpandian@gmail.com"><img src="https://iconic-api.onrender.com/dark/gmail" width="36px"></a>
-<a href="https://www.youtube.com/@yuhesh_pandian"><img src="https://iconic-api.onrender.com/dark/youtube" width="36px"></a>
+<a href="https://codeforces.com/profile/YUHESH">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)</a>
+<a href="https://dev.to/yuheshpandian">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)</a>
+<a href="https://codepen.io/Yuheshpandian">![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)</a>
+<a href="https://github.com/YuheshPandian">	![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)</a>
+<a href="mailto:yuheshpandian@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
+<a href="https://www.youtube.com/@yuhesh_pandian">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)</a>
 
 
 
