@@ -35,6 +35,8 @@ I'm learning Django and enhancing my skills in Python, HTML, and CSS. I'm open t
   <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
 </div>
 
+
+<br>
 <details>
   <summary>Github Stats</summary>
 
@@ -52,16 +54,6 @@ I'm learning Django and enhancing my skills in Python, HTML, and CSS. I'm open t
   </div>
 
 </details>
-
-## 🔗 Connect with me
-
-<a href="https://codeforces.com/profile/YUHESH">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)</a>
-<a href="https://dev.to/yuheshpandian">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white)</a>
-<a href="https://codepen.io/Yuheshpandian">![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)</a>
-<a href="https://github.com/YuheshPandian">	![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)</a>
-<a href="mailto:yuheshpandian@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)</a>
-<a href="https://www.youtube.com/@yuhesh_pandian">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)</a>
-
 
 
 ---
