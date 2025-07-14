@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm learning Django and enhancing my skills in Python, HTML, and CSS. I'm open to collaboration and discussions about the latest tech trends. Plus, I have a fast typing speed, which helps me generate ideas quickly!
+I’m Yuhesh Pandian, a Python developer with a passion for open source, Django, and building tools. I create development resources, icons, and beginner-friendly projects. You can often find me working on side projects, writing on Dev.to, or experimenting with new ideas here on GitHub. I'm always learning and discovering!
 
 
 ## ⚒ Competencies and Utilities
