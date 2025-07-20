@@ -3,18 +3,19 @@
 
 
 # Hey folks👋, I'm **Yuhesh Pandian** 
-#### 🚀 Tech Enthusiast | Aspiring Developer | Creative Thinker | Lifelong Learner 🎯
+#### Tech Enthusiast | Aspiring Developer | Creative Thinker | Lifelong Learner 
 
 
 </div>
 
 
-## 👨‍💻 About Me
-
-I’m Yuhesh Pandian, a Python developer with a passion for open source, Django, and building tools. I create development resources, icons, and beginner-friendly projects. You can often find me working on side projects, writing on Dev.to, or experimenting with new ideas here on GitHub. I'm always learning and discovering!
+## About Me
 
 
-## ⚒ Languages and Tools
+**Passionate Python developer** focused on creating beginner-friendly open-source tools. Skilled in **Python**, **HTML**, and **CSS**, and currently learning **Django** and **Tailwind** CSS. Enjoys developing resources, designing icons, and experimenting with new ideas. Always learning, building, and sharing on GitHub and Dev.to.
+
+
+## Languages and Tools
 
 <div align="center" style="margin: 10px; padding: 115px;">
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
@@ -25,12 +26,8 @@ I’m Yuhesh Pandian, a Python developer with a passion for open source, Django,
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="Github" />
   <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
   <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape" />
-  <img src="https://iconic-api.onrender.com/dark/codepen" width="48px" title="Codepen" />
   <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="Pycharm" />
-  <img src="https://iconic-api.onrender.com/dark/sublime-text" width="48px" title="Sublime Text" />
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code" />
   <img src="https://iconic-api.onrender.com/dark/devto" width="48px" title="Dev.to" />
-  <img src="https://iconic-api.onrender.com/dark/codeforces" width="48px" title="Codeforces" />
   <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django" />
   <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
 </div>
