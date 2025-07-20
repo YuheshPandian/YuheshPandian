@@ -26,8 +26,6 @@
   <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="Github" />
   <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva" />
   <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape" />
-  <img src="https://iconic-api.onrender.com/dark/pycharm" width="48px" title="Pycharm" />
-  <img src="https://iconic-api.onrender.com/dark/devto" width="48px" title="Dev.to" />
   <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django" />
   <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion" />
 </div>
