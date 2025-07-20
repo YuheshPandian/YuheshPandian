@@ -14,7 +14,7 @@
 I’m Yuhesh Pandian, a Python developer with a passion for open source, Django, and building tools. I create development resources, icons, and beginner-friendly projects. You can often find me working on side projects, writing on Dev.to, or experimenting with new ideas here on GitHub. I'm always learning and discovering!
 
 
-## ⚒ Competencies and Utilities
+## ⚒ Languages and Tools
 
 <div align="center" style="margin: 10px; padding: 115px;">
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python" />
