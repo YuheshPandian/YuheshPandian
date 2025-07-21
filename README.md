@@ -9,31 +9,41 @@
 
 ## About Me  
 
-I'm a **Python developer** passionate about open source, developer tools, and creating beginner-friendly resources.  
-Skilled in **Python**, **HTML**, **CSS** — currently diving deeper into **Django** and **Tailwind CSS**.  
-I love sharing ideas, experimenting with new projects, and contributing to the dev community.
+I’m a **16-year-old** **Python developer** who loves **open source**, building **practical tools**, and making programming feel a little less intimidating for **beginners**. I started with **Python**, **HTML**, and **CSS**, and now I’m diving into **Django** for **backend** magic and **Tailwind CSS** for sleek **frontend** work. I enjoy breaking down complex ideas, **sharing knowledge**, and making things that actually help people.  
+
+When I’m not coding, you’ll probably find me **experimenting** with new **technology**, following the latest in **AI** and **cybersecurity**, or catching up on the newest **tech-themed anime** (yes, there’s always room for a good story with some gadgets in it).  
+
+I’m also known for throwing in the occasional bad **joke** — because who said developers have to be serious all the time? (And yes, my code runs faster when I make puns… or at least, I like to think so.)  
+
+With an average **typing speed** of **60 WPM**, I like to keep my fingers — and ideas — moving fast. Whether it’s contributing to **open source**, learning something new, or collaborating on cool **projects**, I believe every experience is a chance for **growth**, **problem-solving**, and a little bit of **fun** along the way.  
 
 ---
 
 ## Tools & Technologies  
 
 <p align="center">
-  <img src="https://iconic-api.onrender.com/dark/python" width="40px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="40px" title="HTML"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="40px" title="CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/markdown" width="40px" title="Markdown"/>
-  <img src="https://iconic-api.onrender.com/dark/git" width="40px" title="Git"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="40px" title="GitHub"/>
-  <img src="https://iconic-api.onrender.com/dark/django" width="40px" title="Django"/>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="40px" title="Canva"/>
-  <img src="https://iconic-api.onrender.com/dark/inkscape" width="40px" title="Inkscape"/>
-  <img src="https://iconic-api.onrender.com/dark/notion" width="40px" title="Notion"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="64px" title="HTML"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="64px" title="CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="64px" title="Markdown"/>
+  <img src="https://iconic-api.onrender.com/dark/git" width="64px" title="Git"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="64px" title="GitHub"/>
+  <img src="https://iconic-api.onrender.com/dark/django" width="64px" title="Django"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" title="Tailwind CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" title="GitHub Actions"/>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="64px" title="Canva"/>
+  <img src="https://iconic-api.onrender.com/dark/inkscape" width="64px" title="Inkscape"/>
+  <img src="https://iconic-api.onrender.com/dark/notion" width="64px" title="Notion"/>
 </p>
+
 
 ---
 
+## Github Stats
+
 <details>
-<summary>📊 GitHub Stats</summary>
+<summary>Click here to view my GitHub Stats</summary>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15" /><br>
@@ -44,8 +54,9 @@ I love sharing ideas, experimenting with new projects, and contributing to the d
 
 </details>
 
----
+![GitHub User's stars](https://img.shields.io/github/stars/YuheshPandian?style=for-the-badge&color=%23efff78)
+![GitHub followers](https://img.shields.io/github/followers/YuheshPandian?style=for-the-badge&color=7b63ff)
+<img src="https://komarev.com/ghpvc/?username=YuheshPandian&style=for-the-badge&color=dd33a5&abbreviated=true" />
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YuheshPandian&style=flat&color=7b63ff&abbreviated=true" height="20px" />
-</p>
+
+
