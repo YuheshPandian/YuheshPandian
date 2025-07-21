@@ -22,20 +22,21 @@ With an average **typing speed** of **60 WPM**, I like to keep my fingers — an
 ## Tools & Technologies  
 
 <p align="center">
-  <img src="https://iconic-api.onrender.com/dark/python" width="64px" title="Python"/>
-  <img src="https://iconic-api.onrender.com/dark/html" width="64px" title="HTML"/>
-  <img src="https://iconic-api.onrender.com/dark/css" width="64px" title="CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/markdown" width="64px" title="Markdown"/>
-  <img src="https://iconic-api.onrender.com/dark/git" width="64px" title="Git"/>
-  <img src="https://iconic-api.onrender.com/dark/github" width="64px" title="GitHub"/>
-  <img src="https://iconic-api.onrender.com/dark/django" width="64px" title="Django"/>
-  <img src="https://iconic-api.onrender.com/dark/tailwind" width="64px" title="Tailwind CSS"/>
-  <img src="https://iconic-api.onrender.com/dark/vscode" width="64px" title="VS Code"/>
-  <img src="https://iconic-api.onrender.com/dark/github-actions" width="64px" title="GitHub Actions"/>
-  <img src="https://iconic-api.onrender.com/dark/canva" width="64px" title="Canva"/>
-  <img src="https://iconic-api.onrender.com/dark/inkscape" width="64px" title="Inkscape"/>
-  <img src="https://iconic-api.onrender.com/dark/notion" width="64px" title="Notion"/>
+  <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
+  <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
+  <img src="https://iconic-api.onrender.com/dark/css" width="48px" title="CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/markdown" width="48px" title="Markdown"/>
+  <img src="https://iconic-api.onrender.com/dark/git" width="48px" title="Git"/>
+  <img src="https://iconic-api.onrender.com/dark/github" width="48px" title="GitHub"/>
+  <img src="https://iconic-api.onrender.com/dark/django" width="48px" title="Django"/>
+  <img src="https://iconic-api.onrender.com/dark/tailwind" width="48px" title="Tailwind CSS"/>
+  <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" title="VS Code"/>
+  <img src="https://iconic-api.onrender.com/dark/github-actions" width="48px" title="GitHub Actions"/>
+  <img src="https://iconic-api.onrender.com/dark/canva" width="48px" title="Canva"/>
+  <img src="https://iconic-api.onrender.com/dark/inkscape" width="48px" title="Inkscape"/>
+  <img src="https://iconic-api.onrender.com/dark/notion" width="48px" title="Notion"/>
 </p>
+
 
 
 ---
