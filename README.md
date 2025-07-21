@@ -21,6 +21,8 @@ With an average **typing speed** of **60 WPM**, I like to keep my fingers — an
 
 ## Tools & Technologies  
 
+_These icons are my project too_
+
 <p align="center">
   <img src="https://iconic-api.onrender.com/dark/python" width="48px" title="Python"/>
   <img src="https://iconic-api.onrender.com/dark/html" width="48px" title="HTML"/>
