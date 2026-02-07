@@ -49,11 +49,11 @@ _These icons are my project too_
 <summary>Click here to view my GitHub Stats</summary>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuheshPandian&theme=tokyonight&hide_border=true" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=YuheshPandian&theme=tokyonight&no-frame=true&margin-w=15" /><br> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=YuheshPandian&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=FFFFFF&ring=4C8EDA&stroke=FFFFFF&dates=1D64D0"/><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=YuheshPandian&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuheshPandian&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
+</p> -->
 
 </details>
 
